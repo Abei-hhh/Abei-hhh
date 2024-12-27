@@ -3,9 +3,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abei-hhh)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Abei-hhh&left_color=green&right_color=red)
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abei-hhh)
+ 
 
 
 <!--
