@@ -9,6 +9,13 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
+  
+  <!-- profile logo 个人资料徽标 -->
+   <div>
+<!--     <a href="https://www.peterjxl.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp; -->
+    <img src="https://komarev.com/ghpvc/?username=Abei-hhh&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  </div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abei-hhh)
 
